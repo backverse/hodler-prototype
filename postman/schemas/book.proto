@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package com.book;
+package book;
 
 message Book {
   int64 isbn = 1;
